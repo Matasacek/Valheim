@@ -1,0 +1,389 @@
+Mono path[0] = 'C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Managed'
+Mono config path = 'C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/lib/usr/lib/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/libc.so.6.dll
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/data-00000260E49184C0.dll
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/data-00000260E91BA040.dll
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
+    Vendor:   
+    VRAM:     8019 MB
+    Driver:   31.0.15.2686
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.048 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.476200 ms
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (07.12.2022 15:50:11)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 8 plugins to load
+[Info   :   BepInEx] Loading [Jotunn 2.10.3]
+[Info   :    Jotunn] Initializing LocalizationManager
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/data-0000026159C05D40.dll
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.10.3 loaded successfully
+[Info   :   BepInEx] Loading [ValheimRAFT 1.4.5]
+[Info   :   BepInEx] Loading [MagicalMounts 1.2.5]
+Fallback handler could not load library C:/Users/matas/Desktop/Valheim.v0.212.7-0xdeadc0de/valheim_Data/Mono/data-000002615D1D6540.dll
+Shader 'MysticArsenal/MysticHSV': fallback shader 'Particles/Additive' not found
+01/21/2023 01:03:14: Loaded localization CSV:localization language:English
+01/21/2023 01:03:14: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:14: Loaded localization CSV:localization language:English
+01/21/2023 01:03:14: Loaded localization CSV:localization_extra language:English
+[Info   :   BepInEx] Loading [RuneMagic 1.1.16]
+Calculated centers for 29 icebergs
+[Info   :   BepInEx] Loading [MagicWeapons 1.0.7]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [SouthsilArmor 2.4.2]
+[Info   :   BepInEx] Loading [Outsiders 1.5.3]
+[Message:   BepInEx] Chainloader startup complete
+01/21/2023 01:03:21: Starting to load scene:start
+01/21/2023 01:03:21: Using environment steamid 892970
+01/21/2023 01:03:21: Using steam APPID:892970
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+01/21/2023 01:03:21: Authentication:k_ESteamNetworkingAvailability_Attempting
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 23)
+UnloadTime: 3.750100 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:25: Steam initialized, persona:Niggy Wiggy
+01/21/2023 01:03:25: PlayFab custom ID set to "Steam_76561198201861335"
+01/21/2023 01:03:25: Using default prefs
+01/21/2023 01:03:25: Valheim version:0.212.7
+01/21/2023 01:03:25: Worldgenerator version setup:2
+[Info   :Jotunn.Managers.CommandManager] Adding 4 commands to the Console
+01/21/2023 01:03:25: Render threading mode:MultiThreaded
+01/21/2023 01:03:25: Loaded localization CSV:localization language:English
+01/21/2023 01:03:25: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:26: Loaded localization CSV:localization language:English
+01/21/2023 01:03:26: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:26: Loaded localization CSV:localization language:English
+01/21/2023 01:03:26: Loaded localization CSV:localization_extra language:English
+01/21/2023 01:03:26: Missing audio clip in music respawn
+01/21/2023 01:03:26: Checking for installed DLCs
+01/21/2023 01:03:26: DLC:beta installed:False
+01/21/2023 01:03:26: Builder started
+[Debug  :Jotunn.Managers.SynchronizationManager] Gathering config values
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Debug  :Jotunn.Entities.CustomLocalization] Added Json language file: valheimraft.json
+01/21/2023 01:03:26: Loaded localization CSV:localization language:English
+01/21/2023 01:03:26: Loaded localization CSV:localization_extra language:English
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Debug  :Jotunn.Managers.LocalizationManager] Adding tokens for 'Localization (com.jotunn.jotunn)'
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_failed_connection -> Failed Connection:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_remote_version -> Remote Version (the Server):
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_local_version -> Local Version (this Game):
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_valheim_version -> Valheim Version Error:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_version_string -> Valheim Modded Version String Mismatch:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_missing_mods -> Missing Mods:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_update_needed -> Mod Updates Needed:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_downgrade_needed -> Mod Downgrades Needed:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_additional_mods -> Additional Mods Loaded:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_header_further_steps -> Further Steps:
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_valheim_version_error_description -> The server runs Valheim $1, while your game runs Valheim $2
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_valheim_version_upgrade -> Please update your game to Valheim $1 or contact your server admin
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_valheim_version_downgrade -> Please downgrade your game to Valheim $1 or contact your server admin
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_version_string_description -> This may indicate that mods are missing on one side. Not all mods show up equally on both server and client even if they are installed. Please check the requirements of the listed mods
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_version_strong_local -> Local (this game): $1
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_version_strong_remote -> Remote (the server): $1
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_further_steps_description -> This version check only applies for mods using Jötunn. Please check both server and client log files from 'BepInEx/LogOutput.log' for other possible disconnects
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_mod_update -> Please update $1 to version $2
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_mod_downgrade -> Please downgrade $1 to version $2
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_missing_mods_description -> Please install the following mods
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_additional_mods_description -> Please contact your server admin or uninstall the following mods
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_missing_mod -> $1 $2 was not loaded on your game
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_additional_mod -> $1 $2 was not loaded on the server
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_open_log_file -> Open Log Folder
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mod_compat_troubleshooting -> Troubleshooting
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_raft -> Raft Base
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_raft_desc -> A raft... that you can build on!
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_raft_mast -> Raft mast
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_raft_mast_desc -> A mast for your base, in the style of the raft
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_karve_mast -> Karve mast
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_karve_mast_desc -> A mast for your base, in the style of the karve
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_vikingship_mast -> Longship mast
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_vikingship_mast_desc -> A mast for your base, in the style of the longship
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rudder -> Steering wheel
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rudder_desc -> A steering wheel for on your moving base!
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rudder_use -> Steer
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_ladder -> Rope ladder
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_ladder_desc -> A simple ladder made out of ropes and planks.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_ladder_use -> Climb
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_anchor -> Rope Anchor
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_anchor_desc -> A rope anchor point that allows you to attach ropes to.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_anchor_attach -> Attach Rope
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_rope_anchor_attach_to -> Attach Rope to this object
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_anchor_key_desc -> Raise\Lower anchor
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail -> Sail
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_desc -> Customizable sail.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_edit -> Customize sail
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_4 -> Sail (4 Sides)
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_4_desc -> Customizable sail with 4 corners.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_3 -> Sail (3 Sides)
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_sail_3_desc -> Customizable sail with 3 corners.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_pier -> Pier Support
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_pier_desc -> Pier support that is built on water and automatically extends all the way to the sea floor.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp -> Boarding ramp
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_desc -> Extendenable ramp to board your ship.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_wide -> Boarding ramp (Wide)
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_wide_desc -> Extendenable ramp to board your ship.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_edit -> Edit Ramp
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_extend -> Extend
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_boarding_ramp_retract -> Retract
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_dirt_floor_1x1 -> Dirt floor 1x1 (cultivatable)
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_dirt_floor_1x1_desc -> Cultivatable piece of ground that can be placed on rafts.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_dirt_floor_2x2 -> Dirt floor 2x2 (cultivatable)
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_dirt_floor_2x2_desc -> Cultivatable piece of ground that can be placed on rafts.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_clothanchors -> Cloth Anchors
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_edit_sail -> Edit Sail
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_edit_pattern -> Edit Pattern
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_edit_logo -> Edit Logo
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_save -> Save
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_panel_cancel -> Cancel
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_ramp_panel_segments -> Segments
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_ramp_panel_save -> Save
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_ramp_panel_cancel -> Cancel
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_sailraise -> Allow raising sail.
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_texture -> Texture
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_color -> Color
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_offset -> Offset
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_tiling -> Tiling
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_rotation -> Rotation
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_texture_panel_close -> Close
+[Debug  :Jotunn.Managers.LocalizationManager] Added translation: mb_edit_sail_clothoff -> Force cloth physics off.
+ObjectDB_Awake_Patch ran
+[Warning:Jotunn.EventExtensions] Exception thrown at event InvokeOnVanillaObjectsAvailable in ValheimRAFT.LoadCustomTextures:
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\matas\Desktop\Valheim.v0.212.7-0xdeadc0de\BepInEx\plugins\ValheimRAFT\Assets\Sails'.
+  at System.IO.__Error.WinIOError (System.Int32 errorCode, System.String maybeFullPath) [0x000f7] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].HandleError (System.Int32 hr, System.String path) [0x00006] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].CommonInit () [0x00054] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource]..ctor (System.String path, System.String originalUserPath, System.String searchPattern, System.IO.SearchOption searchOption, System.IO.SearchResultHandler`1[TSource] resultHandler, System.Boolean checkHost) [0x000d6] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableFactory.CreateFileNameIterator (System.String path, System.String originalUserPath, System.String searchPattern, System.Boolean includeFiles, System.Boolean includeDirs, System.IO.SearchOption searchOption, System.Boolean checkHost) [0x00009] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.InternalGetFileDirectoryNames (System.String path, System.String userPathOriginal, System.String searchPattern, System.Boolean includeFiles, System.Boolean includeDirs, System.IO.SearchOption searchOption, System.Boolean checkHost) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.InternalGetFiles (System.String path, System.String searchPattern, System.IO.SearchOption searchOption) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.GetFiles (System.String path) [0x0000e] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at ValheimRAFT.CustomTextureGroup.Load (System.String groupName) [0x0004a] in <8ad9a6d8a60a40dbab2256570c1eda96>:0 
+  at ValheimRAFT.ValheimRAFT.LoadCustomTextures () [0x00001] in <8ad9a6d8a60a40dbab2256570c1eda96>:0 
+  at Jotunn.EventExtensions.SafeInvoke (System.Action events) [0x00018] in <c63d4c3a54eb484cbd3e596e9b7bd3d2>:0 
+ObjectDB_CopyOtherDB_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+[Debug  :MagicalMounts] ReadConfigValues called
+[Debug  :MagicWeapons] ReadConfigValues called
+[Debug  :SouthsilArmor] ReadConfigValues called
+[Debug  :MagicalMounts] ReadConfigValues called
+[Debug  : Outsiders] ReadConfigValues called
+01/21/2023 01:03:27: Ticket is System.Byte[] of length 321
+01/21/2023 01:03:27: Session auth respons callback
+01/21/2023 01:03:27: Starting music menu
+01/21/2023 01:03:27: UI Group status changed Menu = True
+
+Unloading 297 unused Assets to reduce memory usage. Loaded Objects now: 171026.
+Total: 97.036000 ms (FindLiveObjects: 4.034800 ms CreateObjectMapping: 7.469200 ms MarkObjects: 85.115900 ms  DeleteObjects: 0.415700 ms)
+
+01/21/2023 01:03:28: PlayFab logged in as "Steam_76561198201861335"
+01/21/2023 01:03:28: PlayFab local entity ID is CD5F17D6BCE7F080
+01/21/2023 01:03:29: UI Group status changed Menu = True
+01/21/2023 01:03:30: FOund selected Start game
+01/21/2023 01:03:30: show character selection
+01/21/2023 01:03:31: OnCharacterStart
+01/21/2023 01:03:39: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 24)
+UnloadTime: 7.782500 ms
+01/21/2023 01:03:40: Steam initialized, persona:Niggy Wiggy
+01/21/2023 01:03:40: PlayFab custom ID set to "Steam_76561198201861335"
+01/21/2023 01:03:40: Using default prefs
+[Info   :Jotunn.Managers.CommandManager] Adding 4 commands to the Console
+01/21/2023 01:03:40: Loading player profile matasacek
+01/21/2023 01:03:40: isModded: True
+01/21/2023 01:03:40: Zonesystem Awake 737
+01/21/2023 01:03:40: DungeonDB Awake 737
+01/21/2023 01:03:40: Steam initialized, persona:Niggy Wiggy
+01/21/2023 01:03:40: Registering lobby
+01/21/2023 01:03:40: New session server "deadascased" that has join code , now 1 player(s)
+01/21/2023 01:03:40: Register PlayFab server "deadascased"
+01/21/2023 01:03:40: Server 'deadascased' begin PlayFab create and join network for server 
+01/21/2023 01:03:40: Worldgenerator version setup:2
+Registered 'CookieMilk.MagicalMounts ConfigSync' RPC - waiting for incoming connections
+Registered 'CookieMilk.MagicalMounts ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'CookieMilk.MagicalMounts PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'CookieMilk.MagicalMounts MountManager ConfigSync' RPC - waiting for incoming connections
+Registered 'CookieMilk.MagicalMounts CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'MythikWolf.MagicWeapons ConfigSync' RPC - waiting for incoming connections
+Registered 'MythikWolf.MagicWeapons ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Southsil.SouthsilArmor ConfigSync' RPC - waiting for incoming connections
+Registered 'Southsil.SouthsilArmor ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'UnJohnny.Outsiders ConfigSync' RPC - waiting for incoming connections
+Registered 'UnJohnny.Outsiders ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'UnJohnny.Outsiders CreatureManager ConfigSync' RPC - waiting for incoming connections
+ZNetScene_Awake_Patch ran
+[Info   :Jotunn.Managers.PrefabManager] Adding 19 custom prefabs to the ZNetScene
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MinimapOverlayPanel
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab ColorPicker
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab GradientPicker
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBRaft
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBRaftMast
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBKarveMast
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBVikingShipMast
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBRudder
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBRopeLadder
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBRopeAnchor
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBSail
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBSailCreator_4
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBSailCreator_3
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBPier_Pole
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBPier_Stone
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBBoardingRamp
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBBoardingRamp_Wide
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBDirtfloor_2x2
+[Debug  :Jotunn.Managers.PrefabManager] Added prefab MBDirtfloor_1x1
+01/21/2023 01:03:42: Audioman already exist, destroying self
+01/21/2023 01:03:42: Checking for installed DLCs
+01/21/2023 01:03:42: DLC:beta installed:False
+ObjectDB_Awake_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+[Debug  :Jotunn.Managers.PieceManager] Added categories for table _HammerPieceTable
+[Debug  :Jotunn.Managers.PieceManager] Added categories for table _RuneFocusPieceTable
+[Info   :Jotunn.Managers.PieceManager] Adding 15 custom pieces to the PieceTables
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBRaft | Token: $mb_raft
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBRaftMast | Token: $mb_raft_mast
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBKarveMast | Token: $mb_karve_mast
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBVikingShipMast | Token: $mb_vikingship_mast
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBRudder | Token: $mb_rudder
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBRopeLadder | Token: $mb_rope_ladder
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBRopeAnchor | Token: $mb_rope_anchor
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBSailCreator_4 | Token: $mb_sail_4
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBSailCreator_3 | Token: $mb_sail
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBPier_Pole | Token: $mb_pier ($piece_logpole4)
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBPier_Stone | Token: $mb_pier ($piece_stonewall4x2)
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBBoardingRamp | Token: $mb_boarding_ramp
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBBoardingRamp_Wide | Token: $mb_boarding_ramp_wide
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBDirtfloor_2x2 | Token: $mb_dirt_floor_2x2
+[Debug  :Jotunn.Managers.PieceManager] Added piece MBDirtfloor_1x1 | Token: $mb_dirt_floor_1x1
+
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 174863.
+Total: 89.231800 ms (FindLiveObjects: 4.140600 ms CreateObjectMapping: 7.447800 ms MarkObjects: 76.673200 ms  DeleteObjects: 0.969600 ms)
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+01/21/2023 01:03:47: Zonesystem Start 737
+01/21/2023 01:03:48: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+01/21/2023 01:03:48: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+01/21/2023 01:03:48: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+ZoneSystem_Start_Patch ran
+Skipping BossStone_Bonemass
+Skipping BossStone_DragonQueen
+Skipping BossStone_Yagluth
+Skipping BossStone_TheQueen
+Skipping BossStone_TheElder
+Skipping BossStone_Eikthyr
+Skipping BossStone_Bonemass
+Skipping BossStone_DragonQueen
+Skipping BossStone_Yagluth
+Skipping BossStone_TheElder
+Skipping BossStone_Eikthyr
+Cached water surface vertex order
+01/21/2023 01:03:48: DungeonDB Start 737
+01/21/2023 01:03:49: ZRpc timeout set to 30s 
+01/21/2023 01:03:49: Load world: deadascased (deadascased)
+01/21/2023 01:03:49: Loading 54595 zdos , my id 1436900981 data version:29
+01/21/2023 01:03:49: Loaded 32402 dead zdos
+01/21/2023 01:03:49: Removed 0 OLD generated ZDOS
+01/21/2023 01:03:49: Loaded 10054 locations
+01/21/2023 01:03:50: Starting respawn
+01/21/2023 01:03:50: Lobby was created k_EResultOK  109775243953111593  error:False
+01/21/2023 01:03:50: Got requested lobby data
+01/21/2023 01:03:50: Session auth respons callback
+01/21/2023 01:03:56: Unpacking compressed mapdata 8464
+01/21/2023 01:03:56: tip:$loadscreen_tip25
+01/21/2023 01:03:57: Got requested lobby data
+01/21/2023 01:03:58: Joined PlayFab Party network with ID "7499382a-d415-4174-abbf-7b329ed8fc88|AwDqvFy/2+mxHlC6R0WeTgXfNphosU5vcnRoRXVyb3BlAAAAAAAAAAAAZXiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnM4MWU1LWQ3OTA4NDNmLWFiMzYtNDlhMS1iMTA2LWYzOTVmODlmMzdkYS5ub3J0aGV1cm9wZS5jbG91ZGFwcC5henVyZS5jb20="
+01/21/2023 01:03:59: Created PlayFab lobby with ID "d7a483ba-1cab-47e1-8b06-e3f0425c96fc", ConnectionString "cv1:d7a483ba-1cab-47e1-8b06-e3f0425c96fc|451107|kv1|cv1:csSKAgG7h7jgeVozRp0CFwftZcpq/f8qpObXLdSs19w=" and owned by "CD5F17D6BCE7F080"
+01/21/2023 01:03:59: Session "deadascased" registered with join code 294583
+01/21/2023 01:03:59: Retry join-code check 99
+01/21/2023 01:04:00: Retry join-code check 98
+01/21/2023 01:04:02: Session "deadascased" with join code 294583 is active with 1 player(s)
+01/21/2023 01:04:05: Spawned after 8,019994
+Caching server config
+Sending server config to 0 clients
+Caching server config
+Sending server config to 0 clients
+Caching server config
+Sending server config to 0 clients
+Caching server config
+Sending server config to 0 clients
+01/21/2023 01:04:05: Minimap: Adding unique location (-4.9, 34.4, 189.5)
+01/21/2023 01:04:07: Starting music home
+01/21/2023 01:04:07: Resumed music home at 0
+01/21/2023 01:07:36: Game - OnApplicationQuit
+01/21/2023 01:07:36: Shuting down
+01/21/2023 01:07:36: Uncompressed size 8388722
+01/21/2023 01:07:36: Compressed size 8464
+01/21/2023 01:07:36: Cloud Save: 28763 bytes. /characters/matasacek.fch.new
+01/21/2023 01:07:36: Steam writing file chunks 1 / 1, (28763 bytes)
+01/21/2023 01:07:36: Steam Cloud Move: 28763 bytes. /characters/matasacek.fch -> /characters/matasacek.fch.old
+01/21/2023 01:07:36: Steam writing file chunks 1 / 1, (28763 bytes)
+01/21/2023 01:07:36: Steam Cloud Move: 28763 bytes. /characters/matasacek.fch.new -> /characters/matasacek.fch
+01/21/2023 01:07:36: Steam writing file chunks 1 / 1, (28763 bytes)
+01/21/2023 01:07:36: Considering autobackup. World time: 219,4, short time: 7200, long time: 43200, backup count: 4
+01/21/2023 01:07:36: Skipping backup. World session not long enough.
+01/21/2023 01:07:36: ZNet Shutdown
+01/21/2023 01:07:36: clone 62
+01/21/2023 01:07:36: World save writing starting
+01/21/2023 01:07:36: World save writing started
+01/21/2023 01:07:37: Saved 54593 zdos
+01/21/2023 01:07:37: World save writing finishing
+01/21/2023 01:07:37: World save writing finished
+01/21/2023 01:07:37: Considering autobackup. World time: 219,4, short time: 7200, long time: 43200, backup count: 4
+01/21/2023 01:07:37: Skipping backup. World session not long enough.
+01/21/2023 01:07:37: World saved ( 92,5269ms )
+01/21/2023 01:07:37: Considering autobackup. World time: 219,4, short time: 7200, long time: 43200, backup count: 4
+01/21/2023 01:07:37: Skipping backup. World session not long enough.
+01/21/2023 01:07:37: Sending disconnect msg
+01/21/2023 01:07:37: Unregister PlayFab server "deadascased" and leaving network "7499382a-d415-4174-abbf-7b329ed8fc88|AwDqvFy/2+mxHlC6R0WeTgXfNphosU5vcnRoRXVyb3BlAAAAAAAAAAAAZXiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbktkbnM4MWU1LWQ3OTA4NDNmLWFiMzYtNDlhMS1iMTA2LWYzOTVmODlmMzdkYS5ub3J0aGV1cm9wZS5jbG91ZGFwcC5henVyZS5jb20="
